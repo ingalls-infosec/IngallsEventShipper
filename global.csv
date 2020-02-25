@@ -1,7 +1,7 @@
 SysmonConfVersion,1
 SysmonConfDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/sysmon.xml
-SysmonConfDlIsZip,0
-SysmonConfDlIsZipEncrypted,0
+SysmonConfDlIsZip,1
+SysmonConfDlIsZipEncrypted,1
 SysmonExeVersion,10.0.4.1
 SysmonExeDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/Sysmon.exe
 SysmonExeDlIsZip,0
@@ -13,7 +13,8 @@ WLBConfDlIsZipEncrypted,0
 WLBExeVersion,7.5.2
 WLBExeDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/winlogbeat-7.5.2-windows-x86_64.zip
 WLBExeDlIsZip,1
+WLBExeDlIsZipEncrypted,1
 UpdaterExeVersion,1
-UpdaterExeDlLocation,
+UpdaterExeDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/updater.zip
 UpdaterExeDlIsZip,1
-UpdaterExeDlIsZipEncrypted,0
+UpdaterExeDlIsZipEncrypted,1
