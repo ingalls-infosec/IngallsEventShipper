@@ -8,8 +8,8 @@ SysmonExeDlIsZip,0
 SysmonExeDlIsZipEncrypted,0
 WLBConfVersion,1
 WLBConfDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/winlogbeat.zip
-WLBConfDlIsZip,0
-WLBConfDlIsZipEncrypted,0
+WLBConfDlIsZip,1
+WLBConfDlIsZipEncrypted,1
 WLBExeVersion,7.5.2
 WLBExeDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/winlogbeat-7.5.2-windows-x86_64.zip
 WLBExeDlIsZip,1
