@@ -6,7 +6,7 @@ SysmonExeVersion,10.0.4.1
 SysmonExeDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/Sysmon.exe
 SysmonExeDlIsZip,0
 SysmonExeDlIsZipEncrypted,0
-WLBConfVersion,4
+WLBConfVersion,5
 WLBConfDlLocation,https://github.com/ingalls-infosec/IngallsEventShipper/raw/master/winlogbeat.zip
 WLBConfDlIsZip,1
 WLBConfDlIsZipEncrypted,1
